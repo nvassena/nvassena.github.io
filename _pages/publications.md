@@ -17,15 +17,15 @@ SIAM Journal on Applied Dynamical Systems, 22: 1639-1672, [doi: 10.1137/22M15279
 **Symbolic hunt of instabilities and bifurcations in reaction networks**  
 [Preprint](https://arxiv.org/abs/2303.03089) (2023)  
 
-5. Nicola Vassena  
+6. Nicola Vassena  
 **Structural obstruction to the simplicity of the eigenvalue zero in chemical reaction networks**   
 [Preprint](https://arxiv.org/abs/2205.12655) (2022)
 
-6. Nicola Vassena  
+7. Nicola Vassena  
 **Sign-sensitivity of metabolic networks: which structures determine the sign of the responses**  
 International Journal of Robust and Nonlinear Control, [doi: 10.1002/rnc.5896](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5896) (2021)
 
-7. Nicola Vassena  
+8. Nicola Vassena  
 **Sensitivity of metabolic networks: perturbing metabolite concentrations**  
 [Preprint](https://arxiv.org/abs/2012.10687) 2020  
 
