@@ -5,20 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Nicola Vassena  
-**Saddle-node bifurcations in chemical reaction networks**  
-[Preprint](https://arxiv.org/abs/2209.14705) (2022)  
+1. Nicola Vassena and Peter F. Stadler
+**Unstable Cores are the source of instability in Chemical Reaction Networks**
+[Preprint](https://arxiv.org/abs/2308.11486) (2023)  
+
+2. Nicola Vassena
+**Structural Conditions for Saddle-node Bifurcations in Chemical Reaction Networks**  
+SIAM Journal on Applied Dynamical Systems, 22: 1639-1672, [doi: 10.1137/22M1527933](https://epubs.siam.org/doi/10.1137/22M1527933) (2023)
+
+4. Nicola Vassena
+**Symbolic hunt of instabilities and bifurcations in reaction networks**
+[Preprint](https://arxiv.org/abs/2303.03089) (2023)  
 
 
-2. Nicola Vassena  
+5. Nicola Vassena  
 **Structural obstruction to the simplicity of the eigenvalue zero in chemical reaction networks**   
 [Preprint](https://arxiv.org/abs/2205.12655) (2022)
 
-3. Nicola Vassena  
+6. Nicola Vassena  
 **Sign-sensitivity of metabolic networks: which structures determine the sign of the responses**  
 International Journal of Robust and Nonlinear Control, [doi: 10.1002/rnc.5896](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5896) (2021)
 
-5. Nicola Vassena  
+7. Nicola Vassena  
 **Sensitivity of metabolic networks: perturbing metabolite concentrations**  
 [Preprint](https://arxiv.org/abs/2012.10687) 2020  
 
