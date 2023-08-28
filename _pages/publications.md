@@ -5,18 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Nicola Vassena and Peter F. Stadler
+1. Nicola Vassena and Peter F. Stadler  
 **Unstable Cores are the source of instability in Chemical Reaction Networks**
 [Preprint](https://arxiv.org/abs/2308.11486) (2023)  
 
-2. Nicola Vassena
+2. Nicola Vassena  
 **Structural Conditions for Saddle-node Bifurcations in Chemical Reaction Networks**  
 SIAM Journal on Applied Dynamical Systems, 22: 1639-1672, [doi: 10.1137/22M1527933](https://epubs.siam.org/doi/10.1137/22M1527933) (2023)
 
-4. Nicola Vassena
+4. Nicola Vassena  
 **Symbolic hunt of instabilities and bifurcations in reaction networks**
 [Preprint](https://arxiv.org/abs/2303.03089) (2023)  
-
 
 5. Nicola Vassena  
 **Structural obstruction to the simplicity of the eigenvalue zero in chemical reaction networks**   
