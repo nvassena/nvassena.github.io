@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. Nicola Vassena and Peter F. Stadler  
-**Unstable Cores are the source of instability in Chemical Reaction Networks**
+**Unstable Cores are the source of instability in Chemical Reaction Networks**  
 [Preprint](https://arxiv.org/abs/2308.11486) (2023)  
 
 2. Nicola Vassena  
@@ -14,7 +14,7 @@ author_profile: true
 SIAM Journal on Applied Dynamical Systems, 22: 1639-1672, [doi: 10.1137/22M1527933](https://epubs.siam.org/doi/10.1137/22M1527933) (2023)
 
 4. Nicola Vassena  
-**Symbolic hunt of instabilities and bifurcations in reaction networks**
+**Symbolic hunt of instabilities and bifurcations in reaction networks**  
 [Preprint](https://arxiv.org/abs/2303.03089) (2023)  
 
 5. Nicola Vassena  
