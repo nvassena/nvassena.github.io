@@ -27,7 +27,7 @@ International Journal of Robust and Nonlinear Control, [doi: 10.1002/rnc.5896](h
 
 8. Nicola Vassena  
 **Sensitivity of metabolic networks: perturbing metabolite concentrations**  
-[Preprint](https://arxiv.org/abs/2012.10687) 2020  
+[Preprint](https://arxiv.org/abs/2012.10687) (2020)  
 
 4. Nicola Vassena  
 **Good and bad children in metabolic networks**  
