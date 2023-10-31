@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. Alejandro López-Nieto, Phillipo Lappicy, Nicola Vassena, Hannes Stuke, Jia-Yuan Dai  
-**Hybrid Bifurcations and Stable Periodic Coexistence for Competing Predators**
+**Hybrid Bifurcations and Stable Periodic Coexistence for Competing Predators**  
 [Preprint](https://arxiv.org/abs/2310.19604) (2023)
 
 
