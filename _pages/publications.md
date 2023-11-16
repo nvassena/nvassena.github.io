@@ -20,7 +20,7 @@ SIAM Journal on Applied Dynamical Systems, 22: 1639-1672, [doi: 10.1137/22M15279
 
 5. Nicola Vassena  
 **Symbolic hunt of instabilities and bifurcations in reaction networks**  
-Discrete and Continuous Dynamical Systems - B [doi: 10.3934/dcdsb.2023190](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2023190) (2023)  
+Discrete and Continuous Dynamical Systems - B, [doi: 10.3934/dcdsb.2023190](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2023190) (2023)  
 
 6. Nicola Vassena  
 **Structural obstruction to the simplicity of the eigenvalue zero in chemical reaction networks**   
