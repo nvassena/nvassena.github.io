@@ -5,9 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **2023** 
-19th Herbstseminar der Bioinformatik, Doubice, Czech Republic
-*Applications of Computer Algebra 2023*, Warsaw (Invited Talk)
+* **2023**   
+19th Herbstseminar der Bioinformatik, Doubice, Czech Republic   
+*Applications of Computer Algebra 2023*, Warsaw (Invited Talk)  
 SIAM conference on Applied Algebraic Geometry, Eindhoven  (Invited talk) 
 
 * **2022**  
