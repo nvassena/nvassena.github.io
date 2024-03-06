@@ -7,7 +7,7 @@ author_profile: true
 
 5. Nicola Vassena and Peter F. Stadler  
 **Unstable Cores are the source of instability in Chemical Reaction Networks**  
-Proceedings of the Royal Society A, 480, 20230694. [https://doi.org/10.1098/rspa.2023.0694](https://doi.org/10.1098/rspa.2023.0694)  (2024)
+Proceedings of the Royal Society A, 480, 20230694. [https://doi.org/10.1098/rspa.2023.0694](https://doi.org/10.1098/rspa.2023.0694)  (2024)  
 [Preprint](https://arxiv.org/abs/2308.11486) 
 
 3. Nicola Vassena  
