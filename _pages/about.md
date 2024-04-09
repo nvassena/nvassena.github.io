@@ -12,4 +12,18 @@ I am a postdoc at Universität Leipzig in the [Bioinformatics group](https://www
 
 My research currently focuses on structural network conditions for the occurrence of bifurcations in dynamical systems arising from biochemical and ecological networks. 
 
-For more details, please refer to my publications and CV. Feel free to contact me at nicola.vassena (at) uni-leipzig.de.
+For more details, please refer to my publications and CV. Feel free to contact me at nicola.vassena (at) uni-leipzig.de.  
+
+
+
+NEWS:  
+Together with Alex Blokhuis, Wei-Hsiang Lin, Praful Gagrani, I am organizing an interdisciplinary seminar series centered on autocatalysisis in reaction networks. 
+
+[https://researchseminars.org/seminar/AutocatalysisRN](https://researchseminars.org/seminar/AutocatalysisRN)
+
+If you would like to give a talk or just receive the announcements you can fill up the following google form, or simply write me.  
+
+https://forms.gle/F63NbiXS1f5bLd8Q7
+
+
+
