@@ -16,14 +16,14 @@ For more details, please refer to my publications and CV. Feel free to contact m
 
 
 
-NEWS:  
+**NEWS:**  
 Together with Alex Blokhuis, Wei-Hsiang Lin, Praful Gagrani, I am organizing an interdisciplinary seminar series centered on autocatalysisis in reaction networks. 
 
 [https://researchseminars.org/seminar/AutocatalysisRN](https://researchseminars.org/seminar/AutocatalysisRN)
 
-If you would like to give a talk or just receive the announcements you can fill up the following google form, or simply write me.  
+If you would like to give a talk or just receive the announcements you can fill up this [google form](https://forms.gle/F63NbiXS1f5bLd8Q7), or simply write me.  
 
-https://forms.gle/F63NbiXS1f5bLd8Q7
+
 
 
 
