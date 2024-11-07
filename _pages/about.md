@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Universität Leipzig in the [Bioinformatics group](https://www.bioinf.uni-leipzig.de) of [Peter Stadler](https://www.bioinf.uni-leipzig.de/~studla/). I am member of the Walter Benjamin Program of the DFG (German research society), leading a project on *Zero-eigenvalue bifurcations in Chemical Reaction Networks*. Before, I did my Ph.D. at Freie Universität Berlin, in the [Nonlinear Dynamics group](http://dynamics.mi.fu-berlin.de), under the supervision of [Bernold Fiedler](http://dynamics.mi.fu-berlin.de/persons/fiedler.php). 
+I am a postdoc in mathematics at the [Interdisciplinary Center for Bioinformatics](https://www.izbi.uni-leipzig.de) at Leipzig University, hosted by the [Bioinformatics group](https://www.bioinf.uni-leipzig.de) of [Peter Stadler](https://www.bioinf.uni-leipzig.de/~studla/). I am a member of the Walter Benjamin Program of the DFG (German research society), leading a project on *Zero-eigenvalue bifurcations in Chemical Reaction Networks*. Before, I did my Ph.D. at Freie Universität Berlin, in the [Nonlinear Dynamics group](http://dynamics.mi.fu-berlin.de), under the supervision of [Bernold Fiedler](http://dynamics.mi.fu-berlin.de/persons/fiedler.php). 
 
 My research currently focuses on structural network conditions for the occurrence of bifurcations in dynamical systems arising from biochemical and ecological networks. 
 
