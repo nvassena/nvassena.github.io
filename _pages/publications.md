@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 1. Nicola Vassena, Florin Avram, Rim Adenane    
-**Finding bifurcations in mathematical epidemiology via reaction network methods**  
+**Finding bifurcations in mathematical epidemiology via reaction network methods**
+To appear in Chaos: An Interdisciplinary Journal of Nonlinear Science.
 [Preprint](https://arxiv.org/abs/2405.14576) (2024)  
 
 
