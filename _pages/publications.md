@@ -4,10 +4,15 @@ title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
+1. Alejandro López-Nieto, Phillipo Lappicy, Nicola Vassena, Hannes Stuke, Jia-Yuan Dai  
+**Hybrid Bifurcations: Periodicity from Eliminating a Line of Equilibria**   
+To appear in Mathematische Annalen.   
+[Preprint](https://arxiv.org/abs/2310.19604) (2024)
+
 
 1. Nicola Vassena, Florin Avram, Rim Adenane    
 **Finding bifurcations in mathematical epidemiology via reaction network methods**   
-To appear in Chaos: An Interdisciplinary Journal of Nonlinear Science.
+To appear in Chaos: An Interdisciplinary Journal of Nonlinear Science.  
 [Preprint](https://arxiv.org/abs/2405.14576) (2024)  
 
 
@@ -21,9 +26,6 @@ Proceedings of the Royal Society A, 480, 20230694. [https://doi.org/10.1098/rspa
 [Preprint](https://arxiv.org/abs/2402.18188) (2024)  
 
 
-1. Alejandro López-Nieto, Phillipo Lappicy, Nicola Vassena, Hannes Stuke, Jia-Yuan Dai  
-**Hybrid Bifurcations and Stable Periodic Coexistence for Competing Predators**  
-[Preprint](https://arxiv.org/abs/2310.19604) (2023)
 
 6. Nicola Vassena  
 **Structural obstruction to the simplicity of the eigenvalue zero in chemical reaction networks**   
