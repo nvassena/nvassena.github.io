@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 
-3. Nicola Vassena  
-**Mass action systems: two criteria for Hopf bifurcation without Hurwitz**
-To appear in SIAM Journal on Applied Mathematics.   
-[Preprint](https://arxiv.org/abs/2402.18188) (2025)  
+
 
 1. Alejandro López-Nieto, Phillipo Lappicy, Nicola Vassena, Hannes Stuke, Jia-Yuan Dai  
 **Hybrid Bifurcations: Periodicity from Eliminating a Line of Equilibria**   
@@ -18,8 +15,12 @@ Mathematische Annalen, Early Access.
 
 1. Nicola Vassena, Florin Avram, Rim Adenane    
 **Finding bifurcations in mathematical epidemiology via reaction network methods**   
-Chaos, An Interdisciplinary Journal of Nonlinear Science; 34 (12): 123163. [https://doi.org/10.1063/5.0221082](https://doi.org/10.1063/5.0221082) (2024)  
+Chaos, An Interdisciplinary Journal of Nonlinear Science; 34 (12): 123163. [https://doi.org/10.1063/5.0221082](https://doi.org/10.1063/5.0221082) (2024)
 
+3. Nicola Vassena  
+**Mass action systems: two criteria for Hopf bifurcation without Hurwitz**
+To appear in SIAM Journal on Applied Mathematics.   
+[Preprint](https://arxiv.org/abs/2402.18188) (2024)  
 
 5. Nicola Vassena and Peter F. Stadler  
 **Unstable Cores are the source of instability in Chemical Reaction Networks**  
