@@ -18,7 +18,7 @@ Mathematische Annalen, Early Access.
 Chaos, An Interdisciplinary Journal of Nonlinear Science; 34 (12): 123163. [https://doi.org/10.1063/5.0221082](https://doi.org/10.1063/5.0221082) (2024)
 
 3. Nicola Vassena  
-**Mass action systems: two criteria for Hopf bifurcation without Hurwitz**
+**Mass action systems: two criteria for Hopf bifurcation without Hurwitz**     
 To appear in SIAM Journal on Applied Mathematics.   
 [Preprint](https://arxiv.org/abs/2402.18188) (2024)  
 
