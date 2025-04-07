@@ -4,13 +4,14 @@ title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
-
-
+3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
+**Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**       
+[Preprint](https://arxiv.org/abs/2504.03058) (2025)  
 
 
 1. Alejandro López-Nieto, Phillipo Lappicy, Nicola Vassena, Hannes Stuke, Jia-Yuan Dai  
 **Hybrid Bifurcations: Periodicity from Eliminating a Line of Equilibria**   
-Mathematische Annalen, Early Access.
+Mathematische Annalen; 391: 6373–6399 (2025).
 [https://doi.org/10.1007/s00208-024-03081-7](https://doi.org/10.1007/s00208-024-03081-7) (2025)
 
 1. Nicola Vassena, Florin Avram, Rim Adenane    
