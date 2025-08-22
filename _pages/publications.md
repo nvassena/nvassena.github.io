@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
+**Stoichiometric recipes for periodic oscillations in reaction networks**       
+[Preprint](https://arxiv.org/abs/2508.15273) (2025)  
+
+
+
 3. Nicola Vassena  
 **Mass action systems: two criteria for Hopf bifurcation without Hurwitz**     
 SIAM Journal on Applied Mathematics: 85, 3. [https://doi.org/10.1137/24M166685](https://doi.org/10.1137/24M166685).     
