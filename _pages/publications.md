@@ -14,7 +14,7 @@ author_profile: true
 
 3. Nicola Vassena  
 **Mass action systems: two criteria for Hopf bifurcation without Hurwitz**     
-SIAM Journal on Applied Mathematics: 85, 3. [https://doi.org/10.1137/24M166685](https://doi.org/10.1137/24M166685).     
+SIAM Journal on Applied Mathematics: 85, 3. [https://doi.org/10.1137/24M166689](https://doi.org/10.1137/24M1666859).     
 [Preprint](https://arxiv.org/abs/2402.18188) (2025)
 
 
