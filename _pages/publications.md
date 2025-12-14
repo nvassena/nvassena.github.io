@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
+**Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**       
+[Preprint](https://arxiv.org/abs/2511.18883) (2025)  
+
+
+3. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
+**BiRNe: Symbolic bifurcation analysis of reaction networks with Python**       
+[Preprint](https://arxiv.org/abs/2511.14431) (2025)  
+
 
 3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
 **Stoichiometric recipes for periodic oscillations in reaction networks**       
