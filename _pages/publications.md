@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
+**Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**  
+Accepted for publication in SIAM Journal on Applied Dynamical Systems     
+[Preprint](https://arxiv.org/abs/2504.03058) (2025)  
+
+
 1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
 **Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**       
 [Preprint](https://arxiv.org/abs/2511.18883) (2025)  
@@ -29,9 +36,7 @@ SIAM Journal on Applied Mathematics: 85, 3. [https://doi.org/10.1137/24M166689](
 
 
 
-3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
-**Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**       
-[Preprint](https://arxiv.org/abs/2504.03058) (2025)  
+
 
 
 1. Alejandro López-Nieto, Phillipo Lappicy, Nicola Vassena, Hannes Stuke, Jia-Yuan Dai  
