@@ -6,15 +6,19 @@ author_profile: true
 ---
 
 
+1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
+**Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**  
+Accepted for publication in Journal of Chemical Theory and Computation   
+[Preprint](https://arxiv.org/abs/2511.18883) (2025)  
+
+
 3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
 **Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**  
 Accepted for publication in SIAM Journal on Applied Dynamical Systems     
 [Preprint](https://arxiv.org/abs/2504.03058) (2025)  
 
 
-1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
-**Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**       
-[Preprint](https://arxiv.org/abs/2511.18883) (2025)  
+
 
 
 3. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
