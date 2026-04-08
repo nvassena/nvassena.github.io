@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 
+1. Angela Stevens and Nicola Vassena  
+**Mathematical modeling and analysis of the Notch-Delta pathway**    
+[Preprint](https://arxiv.org/abs/2604.05888) (2026)  
+
+1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
+**Autocatalytic Cores in Reaction Networks with Explicit Catalysis**    
+[Preprint](https://arxiv.org/abs/2603.02770) (2026)  
+
+
+1. Richard Golnik, Thomas Gatter, Nicola Vassena, Peter F. Stadler  
+**Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**    
+[Preprint](https://www.researchsquare.com/article/rs-8659930/v1) (2025)  
+
 1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
 **Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**  
 Accepted for publication in Journal of Chemical Theory and Computation   
@@ -16,8 +29,6 @@ Accepted for publication in Journal of Chemical Theory and Computation
 **Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**  
 Accepted for publication in SIAM Journal on Applied Dynamical Systems     
 [Preprint](https://arxiv.org/abs/2504.03058) (2025)  
-
-
 
 
 
