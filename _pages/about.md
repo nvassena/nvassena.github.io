@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in mathematics at the [Interdisciplinary Center for Bioinformatics](https://www.izbi.uni-leipzig.de) at Leipzig University, hosted by the [Bioinformatics group](https://www.bioinf.uni-leipzig.de) of [Peter Stadler](https://www.bioinf.uni-leipzig.de/~studla/). I am a member of the Walter Benjamin Program of the DFG (German research society), leading a project on *Zero-eigenvalue bifurcations in Chemical Reaction Networks*. Before, I did my Ph.D. at Freie Universität Berlin, in the [Nonlinear Dynamics group](http://dynamics.mi.fu-berlin.de), under the supervision of [Bernold Fiedler](http://dynamics.mi.fu-berlin.de/persons/fiedler.php). 
+
+I am a postdoctoral researcher in mathematics at Leipzig University, hosted by the bioinformatics group of [Peter Stadler](https://www.bioinf.uni-leipzig.de/~studla/). My position is funded by the Novo Nordisk Foundation as a member of the [MATOMIC](https://www.sdu.dk/en/forskning/matomic) consortium. Before, I have been a member of the Walter Benjamin Program of the DFG (German research society) at the [Interdisciplinary Center for Bioinformatics](https://www.izbi.uni-leipzig.de) of Leipzig University, leading a project on *Zero-eigenvalue bifurcations in Chemical Reaction Networks*. 
+
+I completed my Ph.D. at Freie Universität Berlin in 2020, in the [Nonlinear Dynamics group](http://dynamics.mi.fu-berlin.de), under the supervision of [Bernold Fiedler](http://dynamics.mi.fu-berlin.de/persons/fiedler.php). 
 
 My research currently focuses on structural network conditions for the occurrence of bifurcations in dynamical systems arising from biochemical and ecological networks. 
 
 For more details, please refer to my publications and CV. Feel free to contact me at nicola.vassena (at) uni-leipzig.de.  
 
+**Teaching:**  
+In the Summer Semester 2026, I will teach a module (lecture + seminar) on *Reaction Network Theory* at Leipzig University.
 
 
-**NEWS:**  
-Together with Alex Blokhuis, Wei-Hsiang Lin, Praful Gagrani, I am organizing an interdisciplinary seminar series centered on autocatalysisis in reaction networks. 
+**Autocatalysis seminar:**  
+Together with Alex Blokhuis, Wei-Hsiang Lin, Praful Gagrani, I organize an interdisciplinary seminar series centered on autocatalysisis in reaction networks. 
 
 [https://researchseminars.org/seminar/AutocatalysisRN](https://researchseminars.org/seminar/AutocatalysisRN)
 
