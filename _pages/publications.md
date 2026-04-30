@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+
+
 1. Angela Stevens and Nicola Vassena  
 **Mathematical modeling and analysis of the Notch-Delta pathway**    
 [Preprint](https://arxiv.org/abs/2604.05888) (2026)  
@@ -25,6 +27,12 @@ Accepted for publication in Journal of Chemical Theory and Computation
 [Preprint](https://arxiv.org/abs/2511.18883) (2025)  
 
 
+3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
+**Stoichiometric recipes for periodic oscillations in reaction networks**   
+Accepted for publication in Proceedings of the Royal Society A    
+[Preprint](https://arxiv.org/abs/2508.15273) (2025)  
+
+
 3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
 **Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**  
 Accepted for publication in SIAM Journal on Applied Dynamical Systems     
@@ -37,9 +45,7 @@ Accepted for publication in SIAM Journal on Applied Dynamical Systems
 [Preprint](https://arxiv.org/abs/2511.14431) (2025)  
 
 
-3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
-**Stoichiometric recipes for periodic oscillations in reaction networks**       
-[Preprint](https://arxiv.org/abs/2508.15273) (2025)  
+
 
 
 
