@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 
-
+1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
+**Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**  
+Journal of Chemical Theory and Computation. [https://doi.org/10.1021/acs.jctc.5c01979](https://doi.org/10.1021/acs.jctc.5c01979)     
+[Preprint](https://arxiv.org/abs/2511.18883) (2026) 
 
 1. Angela Stevens and Nicola Vassena  
 **Mathematical modeling and analysis of the Notch-Delta pathway**    
@@ -21,10 +24,7 @@ author_profile: true
 **Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**    
 [Preprint](https://www.researchsquare.com/article/rs-8659930/v1) (2025)  
 
-1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
-**Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**  
-Accepted for publication in Journal of Chemical Theory and Computation   
-[Preprint](https://arxiv.org/abs/2511.18883) (2025)  
+ 
 
 
 3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
