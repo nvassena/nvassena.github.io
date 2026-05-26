@@ -4,7 +4,9 @@ title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
-
+1. Richard Golnik, Thomas Gatter, Wim Hordijk, Peter F. Stadler, Nicola Vassena  
+**Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis**    
+[Preprint](https://arxiv.org/abs/2605.25523) (2026)  
 
 1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
 **Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**  
