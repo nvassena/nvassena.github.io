@@ -23,7 +23,8 @@ Journal of Chemical Theory and Computation. [https://doi.org/10.1021/acs.jctc.5c
 
 
 1. Richard Golnik, Thomas Gatter, Nicola Vassena, Peter F. Stadler  
-**Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**    
+**Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**
+Accepted for publication in Journal of Cheminformatics      
 [Preprint](https://www.researchsquare.com/article/rs-8659930/v1) (2025)  
 
  
