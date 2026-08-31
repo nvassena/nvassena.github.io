@@ -6,18 +6,37 @@ author_profile: true
 ---
 
 
+3. Nicola Vassena  
+**Sequential and distributive dual futile cycle: Hopf bifurcation can occur under parameter-rich kinetics but cannot occur under mass action kinetics**         
+[Preprint](https://arxiv.org/abs/2608.27081) (2026)
+
+1. Richard Golnik, Thomas Gatter, Wim Hordijk, Peter F. Stadler, Nicola Vassena  
+**Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis**   
+Accepted for publication in Journal of Theoretical Biology.  
+[Preprint](https://arxiv.org/abs/2605.25523) (2026)  
+
+
+1. Richard Golnik, Nicola Vassena, Thomas Gatter, Peter F. Stadler  
+**Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**   
+Journal of Cheminformatics. 18:117. [https://doi.org/10.1186/s13321-026-01240-3](https://doi.org/10.1186/s13321-026-01240-3)        
+(2026)  
+
+3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
+**Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**  
+SIAM Journal on Applied Dynamical Systems, 25, n.3.  
+[https://doi.org/10.1137/25M1748275](https://doi.org/10.1137/25M1748275). 
+[Preprint](https://arxiv.org/abs/2504.03058) (2026)  
+
+
 3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
 **Stoichiometric recipes for periodic oscillations in reaction networks**   
 Proceedings of the Royal Society A, 482 (2340): 20250886.   
 [https://doi.org/10.1098/rspa.2025.0886](https://doi.org/10.1098/rspa.2025.0886) (2026)  
 
-1. Richard Golnik, Thomas Gatter, Wim Hordijk, Peter F. Stadler, Nicola Vassena  
-**Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis**    
-[Preprint](https://arxiv.org/abs/2605.25523) (2026)  
 
 1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
 **Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks**  
-Journal of Chemical Theory and Computation. [https://doi.org/10.1021/acs.jctc.5c01979](https://doi.org/10.1021/acs.jctc.5c01979)     
+Journal of Chemical Theory and Computation. [https://doi.org/10.1021/acs.jctc.5c01979](https://doi.org/10.1021/acs.jctc.5c01979)    
 [Preprint](https://arxiv.org/abs/2511.18883) (2026) 
 
 1. Angela Stevens and Nicola Vassena  
@@ -29,26 +48,16 @@ Journal of Chemical Theory and Computation. [https://doi.org/10.1021/acs.jctc.5c
 [Preprint](https://arxiv.org/abs/2603.02770) (2026)  
 
 
-1. Richard Golnik, Thomas Gatter, Nicola Vassena, Peter F. Stadler  
-**Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**   
-Accepted for publication in Journal of Cheminformatics      
-[Preprint](https://www.researchsquare.com/article/rs-8659930/v1) (2025)  
-
  
 
 
-3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
-**Global Continuation of Stable Periodic Orbits in Systems of Competing Predators**  
-Accepted for publication in SIAM Journal on Applied Dynamical Systems     
-[Preprint](https://arxiv.org/abs/2504.03058) (2025)  
+
 
 
 
 3. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
 **BiRNe: Symbolic bifurcation analysis of reaction networks with Python**       
 [Preprint](https://arxiv.org/abs/2511.14431) (2025)  
-
-
 
 
 
