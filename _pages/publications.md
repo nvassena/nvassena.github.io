@@ -4,21 +4,25 @@ title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
+3. Arne Kuhrs, Máté L. Telek, Nicola Vassena   
+**Layered mixed matrices and reaction networks**  
+[Preprint](https://arxiv.org/abs/2609.05100) (2026)  
 
 
 3. Nicola Vassena  
 **Sequential and distributive dual futile cycle: Hopf bifurcation can occur under parameter-rich kinetics but cannot occur under mass action kinetics**         
-[Preprint](https://arxiv.org/abs/2608.27081) (2026)
+[Preprint](https://arxiv.org/abs/2608.27081) (2026) 
 
-1. Richard Golnik, Thomas Gatter, Wim Hordijk, Peter F. Stadler, Nicola Vassena  
-**Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis**   
-Accepted for publication in Journal of Theoretical Biology.  
-[Preprint](https://arxiv.org/abs/2605.25523) (2026)  
+1. Richard Golnik, Thomas Gatter, Wim Hordijk, Peter F. Stadler, Nicola Vassena   
+**Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis**    
+Journal of Theoretical Biology. Vol. 635, 112570.   
+[https://doi.org/10.1016/j.jtbi.2026.112580](https://doi.org/10.1016/j.jtbi.2026.112580) (2026)  
 
 
 1. Richard Golnik, Nicola Vassena, Thomas Gatter, Peter F. Stadler  
 **Using MR-Chordless Circuits for Efficient Enumeration of Autocatalytic Cores in Large Chemical Reaction Networks**   
-Journal of Cheminformatics. 18:117. [https://doi.org/10.1186/s13321-026-01240-3](https://doi.org/10.1186/s13321-026-01240-3)        
+Journal of Cheminformatics. 18:117.  
+[https://doi.org/10.1186/s13321-026-01240-3](https://doi.org/10.1186/s13321-026-01240-3)        
 (2026)  
 
 3. Kevin E. M. Church, Jia-Yuan Dai, Olivier Hénot, Phillipo Lappicy, Nicola Vassena  
