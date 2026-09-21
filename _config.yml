@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Nicola Vassena"
   avatar           : "myphoto.png"
-  bio              : "Walter Benjamin Postdoc in mathematics at Uni Leipzig"
+  bio              : "Postdoc in mathematics at Uni Leipzig"
   location         : "Härtelstr. 16 – 18,  
 			D-04107 Leipzig"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :  "https://scholar.google.com/citations?user=RegFGUsAAAAJ&hl=en"
   email            :  nicola.vassena (at) uni-leipzig.de
   researchgate     :  "https://www.researchgate.net/profile/Nicola-Vassena"
   uri              :
