@@ -4,6 +4,16 @@ title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
+
+1. Richard Golnik, Nicola Vassena, Alex Blokhuis    
+**On mechanistically accessible copolymer sequences**  
+[Preprint](https://arxiv.org/abs/2609.33784) (2026) 
+
+3. Richard Golnik, Thomas Gatter, Wim Hordijk, Peter F. Stadler, Nicola Vassena    
+**Minimality in Reflexive and Stoichiometric Autocatalysis**  
+[Preprint](https://arxiv.org/abs/2609.23602) (2026) 
+
+
 3. Arne Kuhrs, Máté L. Telek, Nicola Vassena   
 **Layered mixed matrices and reaction networks**  
 [Preprint](https://arxiv.org/abs/2609.05100) (2026)  
@@ -32,7 +42,7 @@ SIAM Journal on Applied Dynamical Systems, 25, n.3.
 [Preprint](https://arxiv.org/abs/2504.03058) (2026)  
 
 
-3. Alexander Blokhuis, Peter F. Stadler, Nicola Vassena  
+3. Alex Blokhuis, Peter F. Stadler, Nicola Vassena  
 **Stoichiometric recipes for periodic oscillations in reaction networks**   
 Proceedings of the Royal Society A, 482 (2340): 20250886.   
 [https://doi.org/10.1098/rspa.2025.0886](https://doi.org/10.1098/rspa.2025.0886) (2026)  
