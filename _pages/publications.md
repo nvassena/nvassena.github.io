@@ -4,6 +4,11 @@ title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
+1. Angela Stevens and Nicola Vassena  
+**Mathematical modeling and analysis of the Notch-Delta pathway**    
+To appear in Discrete and Continuous Dynamical Systems, special issue on Expository Perspectives by Thematic Speakers   
+[Preprint](https://arxiv.org/abs/2604.05888) (2026) 
+
 
 1. Richard Golnik, Nicola Vassena, Alex Blokhuis    
 **On mechanistically accessible copolymer sequences**  
@@ -53,9 +58,7 @@ Proceedings of the Royal Society A, 482 (2340): 20250886.
 Journal of Chemical Theory and Computation. [https://doi.org/10.1021/acs.jctc.5c01979](https://doi.org/10.1021/acs.jctc.5c01979)    
 [Preprint](https://arxiv.org/abs/2511.18883) (2026) 
 
-1. Angela Stevens and Nicola Vassena  
-**Mathematical modeling and analysis of the Notch-Delta pathway**    
-[Preprint](https://arxiv.org/abs/2604.05888) (2026)  
+ 
 
 1. Richard Golnik, Thomas Gatter, Peter F. Stadler, Nicola Vassena  
 **Autocatalytic Cores in Reaction Networks with Explicit Catalysis**    
