@@ -6,8 +6,9 @@ author_profile: true
 ---
 1. Angela Stevens and Nicola Vassena  
 **Mathematical modeling and analysis of the Notch-Delta pathway**    
-To appear in Discrete and Continuous Dynamical Systems, special issue on Expository Perspectives by Thematic Speakers   
-[Preprint](https://arxiv.org/abs/2604.05888) (2026) 
+Discrete and Continuous Dynamical Systems, special issue on Expository Perspectives by Thematic Speakers
+Vol. 60, 105533. 
+[https://doi.org/10.3934/dcds.2026.105533](https://doi.org/10.3934/dcds.2026.105533).    [Preprint](https://arxiv.org/abs/2604.05888) (2026) 
 
 
 1. Richard Golnik, Nicola Vassena, Alex Blokhuis    
