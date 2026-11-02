@@ -15,10 +15,10 @@ I completed my Ph.D. at Freie Universität Berlin in 2020, in the [Nonlinear Dyn
 
 My research currently focuses on structural network conditions for the occurrence of bifurcations in dynamical systems arising from biochemical and ecological networks. 
 
-For more details, please refer to my publications and CV. Feel free to contact me at nicola.vassena (at) uni-leipzig.de.  
+For more details, please refer to my publications and CV. Feel free to contact me at nicola.vassena (at) uni-leipzig.de. NOTE (!!!): from 28th October Leipzig University email is down due to security issues, so I am currently not reachable through institutional email.
 
 **Teaching:**  
-In the Summer Semester 2026, I will teach a module (lecture + seminar) on *Reaction Network Theory* at Leipzig University.
+From Summer Semester 2026, I will teach a module (lecture + seminar) on *Reaction Network Theory* at Leipzig University.
 
 
 **Autocatalysis seminar:**  
